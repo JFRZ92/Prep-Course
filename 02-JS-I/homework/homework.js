@@ -245,7 +245,9 @@ function esVocal(letra){
   if (letra.length > 1){
     return "Dato incorrecto";
   }
-    return "Dato incorrecto"
+    else{
+      return "Dato incorrecto"
+    }
 }
 
 
